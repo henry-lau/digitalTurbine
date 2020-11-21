@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digital Turbine</string>
+    <string name="guide_connection_error">No connection</string>
+    <string name="photo_desc">Photo description</string>
+    <string name="ad_name">Product Name</string>
+    <string name="ad_description">Ad Description</string>
+    <string name="ad_ratings_count">number Of Ratings</string>
+    <string name="ad_rating">rating</string>
+    <string name="ad_category_name">Category Name</string>
+</resources>
